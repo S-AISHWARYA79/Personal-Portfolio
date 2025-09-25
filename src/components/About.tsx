@@ -4,7 +4,7 @@ import { User, MapPin, Phone, Mail, Calendar } from 'lucide-react';
 const About: React.FC = () => {
   const personalInfo = [
     { icon: <User size={20} />, label: 'Name', value: 'Aishwarya S' },
-    { icon: <Calendar size={20} />, label: 'Age', value: '22 Years' },
+    { icon: <Calendar size={20} />, label: 'Age', value: '20 Years' },
     { icon: <MapPin size={20} />, label: 'Location', value: 'Chengalpattu, Tamil Nadu' },
     { icon: <Phone size={20} />, label: 'Phone', value: '+91 9884749437' },
     { icon: <Mail size={20} />, label: 'Email', value: 'aishwaryashankar79@gmail.com' },
